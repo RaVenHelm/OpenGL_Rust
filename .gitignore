@@ -1,0 +1,8 @@
+target
+*.exe
+*.log
+
+.idea
+.code
+.vs
+*.iml
