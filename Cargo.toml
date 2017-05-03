@@ -5,6 +5,7 @@ authors = ["Ty Enders <tybEnders@outlook.com>"]
 
 [dependencies]
 glium = "0.16.0"
+cgmath = "0.14.1"
 
 [[bin]]
 name = "rusty"
